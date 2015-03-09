@@ -1,0 +1,33 @@
+/* This is a CSS comment.*/
+body {
+    font-family: Helvetica;
+}
+
+h1 {
+  text-align: center;
+  color :black;
+}
+
+h2 {
+  color :#2e420a;
+}
+
+.lesson {
+	background-color: #65960f;
+    padding: 4px;
+    margin: 20px;
+    border-radius: 20px;
+    color: black;
+}
+
+.concept {
+    background-color: #91d023;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 20px;
+    color: black;
+}
+/*
+Comments are only to help PEOPLE read a code file. The
+computer ignores them.
+*/
